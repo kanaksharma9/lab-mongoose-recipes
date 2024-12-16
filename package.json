@@ -12,6 +12,7 @@
     "nodemon": "^2.0.2"
   },
   "dependencies": {
-    "mongoose": "^6.1.2"
+    "lab-mongoose-recipes": "file:",
+    "mongoose": "^6.13.5"
   }
 }
